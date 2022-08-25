@@ -177,3 +177,124 @@ ll
 cat paymentsolution
 cd visa
 exit
+Clear
+clear
+mkdir Visa
+cd Visa
+echo "payment in all continents" > platform
+ll
+ls -ll
+ls ll
+echo "all banks in Nigeria must have ability to accept visa card" >> Nigeriaplatform
+ls
+ls ll
+ls -ll
+/home
+/
+../
+../../../
+/home/ec2-user/mary
+git status
+git add .bash_history
+git add ../.bash_history
+gir add ../.bash_logout
+        ../.bash_profile
+        ../.bashrc
+        ../.gitconfig
+        ../.ssh/
+        ../HR/
+        ./
+        ../childrenschool/
+        ../development/
+Git Status
+git status
+git add ../.bash_logout
+git add ../.bashrc
+git add ../.gitconfig
+git add .../.ssh/
+        ../HR/
+        ./
+        ../childrenschool/
+        ../development/
+git log
+git show
+git status
+git add * ../.bash_profile
+        ../.ssh/
+        ../HR/
+        ./
+        ../childrenschool/
+        ../development/
+git status
+git add . ../.ssh/
+        ../HR/
+        ../childrenschool/
+        ../development/
+git status
+Git add *
+git add .
+git status
+git add *
+git status
+git add . 
+git status
+"git add . ../HR/   "
+        ../childrenschool/
+        ../development/
+git status
+git add HR
+Git add ../HR
+git add .
+git status
+git add ../HR/
+git add ../childrenschool/
+git add ../development/
+git status
+git config --global --list
+git config --global user.name "olubusuyi"
+git config --global user.name "busuyiolofin@gmail.com"
+git config --global --list
+git remove "busuyiolofin"
+git delete "busuyiolofin@gmail.com"
+git config --global user.email "busuyiolofin@gmail.com"
+git config --global --list
+git status
+git add .
+git status
+git add ../.gitconfig
+git Status
+git status
+git commit -m "Visa Project"
+git log
+vi deploy.sh
+ls
+git status
+git add .
+git status
+git add  ../.viminfo
+git status
+git commit "development project"
+git commit -m "development project update"
+git show
+git status
+vi Nigeriaplatform
+cat Nigerianplatform
+cat Nigeriaplatform
+vi Nigeriaplatform
+cat Nigeriaplatform
+git log
+git show
+sudo yum install python3
+print( 'Hello World')
+vi payroll
+cat payroll
+ls
+ll
+vi payroll
+git remote -v
+git remote add Bossman https://github.com/bolsterentreelimited/Lagos-Process-Mapping
+git remote -v
+git push Bossman master
+git log
+pwd
+ls
