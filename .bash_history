@@ -298,3 +298,45 @@ git push Bossman master
 git log
 pwd
 ls
+clear
+pwd
+git log
+ls
+ls ll
+ls -ll
+vi deploy.sh
+cat deploy.sh
+echo deploy.sh
+echo "Visa Global and Visa National deployment" >> deploy.sh
+list deploy.sh
+cat deploy.sh
+git status
+git add .
+git status
+git commit -m " Visa Deployment"
+git log
+git push Bossman master
+Git log
+Git show
+git status
+echo "Print('hello world')" >> deploy.py
+cat deploy.py
+git show
+git log
+git status
+git add .
+git status
+git commit -m "updated deploy file"
+git push Bossman master
+git log
+git remote -v
+ls
+ls ll
+ls -ll
+echo " John Michael Priscilla Mary" >> deploy.py
+cat deploy.py
+git status
+git add .
+git status
+git commit Bossman master
+git push Bossman master
